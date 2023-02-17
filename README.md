@@ -1,7 +1,7 @@
 # Map with Norwegian news sites (2005-21)
 This map presents Norwegian news sites geographically, based on the location of their (main) editorial board.
 
-It is produced with QGIS 3.4, and the [qgis2web](https://github.com/tomchadwin/qgis2web) plugin, with some post-editing of the html-, css- and js-files.
+It is produced with QGIS 3.24, and the [qgis2web](https://github.com/tomchadwin/qgis2web) plugin, with some post-editing of the html-, css- and js-files.
 
 ## How to use the map?
 To open the map, run 'index.html' in your browser.
