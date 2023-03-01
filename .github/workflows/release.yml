@@ -13,7 +13,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
+
     steps:
       - name: Extract metadata (tags, labels) for Docker
         id: meta
